@@ -2,5 +2,5 @@
 My first repository, learning/improving my skill on web development.
 ## About me
 - Name: King's Tech
-- Learning: HTML and CSS
+- Learning: HTML,CSS and Java
 - Goal: Build a skill-sharing and job-placement platform
